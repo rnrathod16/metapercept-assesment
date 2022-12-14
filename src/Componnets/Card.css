@@ -1,0 +1,7 @@
+.align {
+    width: 18rem;
+    /* height: 50vh; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
